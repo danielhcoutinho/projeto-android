@@ -78,6 +78,7 @@ nav {
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.205);
     padding-top: 30px;
+    max-width: 600px;
 }
 
 nav > a {
