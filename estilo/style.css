@@ -71,7 +71,6 @@ header p {
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 20px;
 }
 
 nav {
@@ -86,7 +85,8 @@ nav > a {
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
-    margin-top: 30px;
+    min-height: 300px;
+
 }
 
 nav > a:hover {
